@@ -1,10 +1,9 @@
-# HIRE me out
+# Hire Me Out
 
-A job portal I built with Java and Spring Boot. There are three kinds of users, job seekers, employers and an admin, and each of them gets their own dashboard.
+A job portal we built with Java and Spring Boot. There are three kinds of users, job seekers, employers and an admin, and each of them gets their own dashboard.
 
 The flow is simple. An employer posts a role, the admin approves it, seekers apply, and the employer moves each candidate through the stages (applied, under review, interview, offer or rejected). The seeker and the employer can message each other on an application. The dashboards also have a small live bar that shows what just happened (a new job, a new application, a status change) without refreshing the page.
 
-<!-- Add 2 or 3 screenshots here: the home page, the employer dashboard and the seeker dashboard. -->
 
 ## What's inside
 
