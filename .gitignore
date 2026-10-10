@@ -1,0 +1,27 @@
+target/
+.idea/
+*.iml
+outputs/
+work/
+
+# Never commit real secrets
+src/main/resources/application.properties
+
+# IDE and editor files
+.vscode/
+.classpath
+.project
+.settings/
+
+# Build output and logs
+out/
+*.log
+HELP.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment files (may hold passwords)
+.env
+
